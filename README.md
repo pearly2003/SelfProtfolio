@@ -1,4 +1,4 @@
-# Personal Portfolio
+# SelfProtfolio
 
 A modern, responsive personal portfolio website built with React and Vite.
 
@@ -20,8 +20,8 @@ A modern, responsive personal portfolio website built with React and Vite.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
+git clone https://github.com/pearly2003/SelfProtfolio.git
+cd SelfProtfolio
 ```
 
 2. Install dependencies:
@@ -62,7 +62,7 @@ This project can be deployed to various platforms:
 4. Set publish directory: `dist`
 
 ### GitHub Pages
-1. Add `"homepage": "https://yourusername.github.io/portfolio"` to package.json
+1. Add `"homepage": "https://pearly2003.github.io/SelfProtfolio"` to package.json
 2. Install gh-pages: `npm install --save-dev gh-pages`
 3. Add deploy script: `"deploy": "gh-pages -d dist"`
 4. Run `npm run build && npm run deploy`
@@ -94,4 +94,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Your Name - [your.email@example.com](mailto:your.email@example.com)
 
-Project Link: [https://github.com/yourusername/portfolio](https://github.com/yourusername/portfolio)
+Project Link: [https://github.com/pearly2003/SelfProtfolio](https://github.com/pearly2003/SelfProtfolio)
